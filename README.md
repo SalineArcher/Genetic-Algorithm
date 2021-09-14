@@ -1,11 +1,8 @@
 # Genetic-Algorithm
-### Without application of any framework.
   
 ***Introduction***
 
 Genetic algorithm is employed to minimise the onjective function within the given bounds of variables.
-
-
 
 ***Methodology***
 
